@@ -13,6 +13,6 @@ $password = $_GET['password']
     <title>User</title>
 </head>
 <body>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed iste inventore voluptatibus quisquam magni? Neque voluptatem nisi nesciunt asperiores earum beatae magnam quaerat in necessitatibus sit. Dolorum at incidunt nulla?
-</body>
+
+    </body>
 </html>
